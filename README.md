@@ -1,6 +1,5 @@
 # AIRA MAE F. COMIA: STUDENT PORTFOLIO
 
-
 **University**: Batangas State University - The National Engineering University, Alangilan Campus  
 **Student Number**: 24-03463  
 
@@ -25,6 +24,13 @@ This portfolio is a comprehensive showcase of Aira Mae F. Comia’s academic and
 - **Projects Gallery**: Visual display of project outcomes.
 - **SDG Section**: Advocacy for Quality Education with a focus on web development as a tool.
 - **Contact Information**: Includes email and social media links.
+
+---
+
+## Technologies Used
+- **Languages**: HTML and CSS  
+- HTML is used for the structure and content of the website.  
+- CSS is used for styling and designing the layout to create a visually appealing and user-friendly interface.
 
 ---
 
